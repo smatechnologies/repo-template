@@ -16,7 +16,7 @@ If you’re only fixing a bug, it’s fine to submit a pull request right away b
 ## Your First Pull Request
 Working on your first Pull Request? You can learn how from this free video series:
 
-[How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+- [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 If you decide to fix an issue, please be sure to check the comment thread in case somebody is already working on a fix. If nobody is working on it at the moment, please leave a comment stating that you intend to work on it so other people don’t accidentally duplicate your effort.
 
@@ -33,6 +33,21 @@ Before submitting a pull request, please make sure the following is done:
 - Format your code with prettier.
 - Ensure it compiles & runs.
 - Ensure the test suite passes.
+
+> For further guided instructions on how to perform Github related steps (fork repo, create a branch, commit, create pull requests...), read the published [user guide](https://help.github.com/en/desktop/contributing-to-projects).
+
+## Propose new project / repository
+SMA Technologies Innovation Lab fosters contribution on existing projects as much as possible, in order to improve existing - however when a new idea pops up and there are no existing projects that capture this idea, we want to provide a place to host its seed and facilitate collaboration on growing that idea.
+
+- First, browse our [Innovation Lab's repositories](https://github.com/SMATechnologies) to make sure your idea does not already exist, or could take form of an enhancement of an existing project.
+
+- Still want to start your own project? Send us a brief email at seed-innovation-lab@smatechnologies.com with the following information:
+  - Project name
+  - Brief project Description
+    - Purpose
+    - Technology
+  - Your github user
+>The Innovation Lab team will get back to you, when approved they will create a new repository using our [repo-template](https://github.com/SMATechnologies/repo-template) as template, add your Github user as repository owner, and you'll be good to go.
 
 ## License
 By contributing to SMA Technologies Innovation Lab, you agree that your contributions will be licensed under [Apache 2.0](LICENSE).
