@@ -36,5 +36,17 @@ Before submitting a pull request, please make sure the following is done:
 
 > For further guided instructions on how to perform Github related steps (fork repo, create a branch, commit, create pull requests...), read the published [user guide](https://help.github.com/en/desktop/contributing-to-projects).
 
+## Propose new project / repository
+SMA Technologies Innovation Lab fosters contribution on existing projects as much as possible, in order to improve existing - however when a new idea pops up and there are no existing projects that capture this idea, we want to provide a place to host its seed and facilitate collaboration on growing that idea.
+
+- First, browse our [Innovation Lab's repositories](https://github.com/SMATechnologies) to make sure your idea does not already exist, or could take form of an enhancement of an existing project.
+- Still want to start your own project, send us a brief email at bot-innovation-lab@smatechnologies.com with the following information:
+  - Project name
+  - Brief project Description
+    - Purpose
+    - Technology
+  - Your github user
+>The Innovation Lab team will get back to you, when approved they will create a new repository using our [repo-template](https://github.com/SMATechnologies/repo-template) as template, add your Github user as repository owner, and you'll be good to go.
+
 ## License
 By contributing to SMA Technologies Innovation Lab, you agree that your contributions will be licensed under [Apache 2.0](LICENSE).
